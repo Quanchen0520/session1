@@ -36,6 +36,8 @@ android {
 }
 
 dependencies {
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    implementation("com.github.PhilJay:MPAndroidChart:v3.0.3")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)

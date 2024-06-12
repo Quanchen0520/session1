@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">session1</string>
+    <string name="app_name">天氣</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onepage">第一頁</string>
+    <string name="twopage">第二頁</string>
+    <string name="threepage">第三頁</string>
+    <string name="a">a</string>
 </resources>
